@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: Imperial
-Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Hola!! Este es mi portafolio personal, les invito a que puedan darle una revisada. Muchas gracias.
