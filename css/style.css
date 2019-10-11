@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #03C4EB;
+  color: #5bc0de;
   transition: 0.5s;
 }
 
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  background: #03C4EB;
+  background: #5bc0de;
   border: 2px solid #03C4EB;
   color: #fff;
 }
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-services:hover {
-  background: #03C4EB;
+  background: #5bc0de;
   border: 2px solid #03C4EB;
 }
 
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu li:hover > a, .nav-menu .menu-active > a {
-  color: #03C4EB;
+  color: #5bc0de;
 }
 
 .nav-menu ul {
@@ -477,7 +477,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #5bc0de;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -523,7 +523,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #5bc0de;
 }
 .title-s {
   font-weight: 600;
@@ -573,7 +573,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon, #services1 .service-icon {
   float: left;
-  background: #03C4EB;
+  background: #5bc0de;
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
@@ -831,7 +831,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #03C4EB;
+  color: #5bc0de;
   float: left;
 }
 
@@ -841,7 +841,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #03C4EB;
+  color: #5bc0de;
   border: 1px solid #03C4EB;
   display: none;
   text-align: center;
@@ -907,7 +907,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a:hover {
-  background: #2dc997;
+  background: #5bc0de;
   color: #fff;
 }
 /*--------------------------------------------------------------
